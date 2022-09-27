@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Profile Card Component - Leozizz GitHub]()
+- Solution URL: [Profile Card Component - Leozizz FrontendMentor](https://www.frontendmentor.io/solutions/profile-card-component-solution-yLAF-1b-7k)
 - Live Site URL: [Profile Card Component - Leozizz ](https://leozizz.github.io/profile-card-component/)
 
 ## My process
