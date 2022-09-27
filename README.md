@@ -33,7 +33,7 @@ Users should be able to:
 
 
 #### Mobile Preview
-![Mobile Preview](./assets/readme/mobile-preview.png)
+![Mobile Preview](./assets/readme/mobile-preview.jpeg)
 
 ### Links
 
