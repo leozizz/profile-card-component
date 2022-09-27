@@ -1,0 +1,19 @@
+/* TABLET */
+
+@media (max-width: 768px) {
+    body {
+        background-position: -550px -500px, 450px 450px;
+    }
+}
+
+/* MOBILE */
+
+@media (max-width: 576px) {
+    body {
+        background-position: -750px -500px, 250px 450px;
+    }
+
+    .profile-card {
+        width: 85%;
+    }
+}
