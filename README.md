@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Continued development
 
-Currently II am studying more and more every day and I intend to improve my skills so that I can improve this and other projects in the future.
+Currently I am studying more and more every day and I intend to improve my skills so that I can improve this and other projects in the future.
 
 ## Author
 
