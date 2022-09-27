@@ -29,11 +29,11 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop Preview
-<img src="./assets/readme/desktop-preview.jpeg" alt="Desktop Preview">
+![Desktop Preview](./assets/readme/desktop-preview.png)
 
 
 #### Mobile Preview
-<img src="./assets/readme/mobile-preview.jpeg" alt="Mobile Preview" width="375" height="667">
+![Mobile Preview](./assets/readme/mobile-preview.png | width=600)
 
 ### Links
 
