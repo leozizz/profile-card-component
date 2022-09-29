@@ -6,7 +6,7 @@ body {
     background-color: hsl(185, 75%, 39%);
 }
 
-h3 {
+h1, h2 {
     font-size: 1.8rem;
     font-weight: 700;
     color: hsl(229, 23%, 23%);

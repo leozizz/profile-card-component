@@ -17,3 +17,17 @@
         width: 85%;
     }
 }
+
+@media (max-width: 350px) {
+    .profile-card {
+        height: 80%;
+    }
+
+    .stats {
+        display: flex;
+        justify-content: center;
+          flex-direction: column;
+        gap: 20px;
+    }
+    }
+    
